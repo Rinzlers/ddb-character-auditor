@@ -1,0 +1,5 @@
+src / character / import.js
+|_ getCharacterData
+
+
+|_ provide config file to track list of URLs
