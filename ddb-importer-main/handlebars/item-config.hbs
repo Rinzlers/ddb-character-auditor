@@ -1,0 +1,18 @@
+<form>
+  <header class="sheet-header">
+    <img class="item-icon" src="{{img}}" data-edit="img">
+    <h3 class="item-title">{{name}} on {{character}}</h3>
+  </header>
+
+  <p>Protect this item during character import.</p>
+
+  <div class="form-description">
+    {{#each settings}}
+    <div>
+      <input {{#if this.isChecked}}checked{{/if}} type="checkbox" name="{{this.name}}">{{this.description}}
+    </div>
+    {{/each}}
+  </div>
+  <hr>
+  <button id="ddb-item-config-settings" class="ddb-item-config-button" type="submit">Save</button>
+</form>

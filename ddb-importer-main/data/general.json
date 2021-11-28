@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Ability Score Improvement",
+    "path": "icons/commodities/treasure/broach-lightning-gold.webp"
+  },
+  {
+    "name": "Ability Score Increase",
+    "path": "icons/commodities/treasure/broach-lightning-gold.webp"
+  },
+  {
+    "name": "Background",
+    "path": "icons/skills/trades/academics-book-study-purple.webp"
+  },
+  {
+    "name": "Bonus Cantrip",
+    "path": "icons/sundries/documents/document-symbol-eye.webp"
+  },
+  {
+    "name": "Bonus Cantrips",
+    "path": "icons/sundries/documents/document-symbol-eye.webp"
+  },
+  {
+    "name": "Bonus Proficiency",
+    "path": "systems/dnd5e/icons/items/weapons/crystal.png"
+  },
+  {
+    "name": "Extra Attack",
+    "path": "systems/dnd5e/icons/spells/enchant-orange-2.jpg"
+  },
+  {
+    "name": "Feat",
+    "path": "systems/dnd5e/icons/skills/yellow_01.jpg"
+  },
+  {
+    "name": "Languages",
+    "path": "icons/tools/scribal/ink-quill-red.webp"
+  },
+  {
+    "name": "Proficiencies",
+    "path": "systems/dnd5e/icons/items/weapons/crystal.png"
+  },
+  {
+    "name": "Size",
+    "path": "icons/equipment/back/cape-layered-blue-accent.webp"
+  },
+  {
+    "name": "Speed",
+    "path": "systems/dnd5e/icons/spells/needles-acid-1.jpg"
+  },
+  {
+    "name": "Tool Proficiency",
+    "path": "systems/dnd5e/icons/items/inventory/badge-hammer.jpg"
+  },
+  {
+    "name": "Unarmed Strike",
+    "path": "systems/dnd5e/icons/skills/yellow_08.jpg"
+  }
+]

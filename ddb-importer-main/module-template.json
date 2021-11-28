@@ -1,0 +1,48 @@
+{
+  "name": "ddb-importer",
+  "author": "MrPrimate",
+  "title": "D&D Beyond Importer",
+  "license": "MIT License",
+  "description": "Import your dndbeyond.com characters, spells, items, monsters, encounters, and adventures at super speed!",
+  "version": "VERSION",
+  "download": "https://github.com/mrprimate/ddb-importer/releases/download/VERSION/ddb-importer.zip",
+  "manifest": "https://github.com/mrprimate/ddb-importer/releases/download/latest/module.json",
+  "changelog": "https://github.com/MrPrimate/ddb-importer/blob/main/CHANGELOG.md",
+  "url": "https://github.com/mrprimate/ddb-importer",
+  "minimumCoreVersion": "0.8.8",
+  "compatibleCoreVersion": "0.8.9",
+  "authors": [
+    {
+      "name": "MrPrimate",
+      "email": "jack@mrprimate.co.uk",
+      "url": "https://mrprimate.co.uk"
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "lang/de.json"
+    }
+  ],
+  "system": ["dnd5e"],
+  "scripts": [
+    "./vendor/jszip/jszip.min.js"
+  ],
+  "esmodules": ["dist/main.js"],
+  "styles": [
+    "./css/default.css",
+    "./css/import.css",
+    "./css/journal.css",
+    "./css/notifications.css",
+    "./css/muncher.css",
+    "./css/adventure.css"
+  ],
+  "packs": [],
+  "socket": true
+}

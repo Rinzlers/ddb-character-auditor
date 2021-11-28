@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+/dist/
+diff-folder/
+
+yarn-error.log
+
+yarn.lock

@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Aberrant Dragonmark",
+    "path": "systems/dnd5e/icons/skills/green_21.jpg"
+  },
+  {
+    "name": "Actor",
+    "path": "systems/dnd5e/icons/skills/light_07.jpg"
+  },
+  {
+    "name": "Alert",
+    "path": "systems/dnd5e/icons/skills/light_02.jpg"
+  },
+  {
+    "name": "Apothecary",
+    "path": "icons/tools/laboratory/alembic-glass-ball-blue.webp"
+  },
+  {
+    "name": "Artificer Initiate",
+    "path": "icons/equipment/head/goggles-leather-blue.webp"
+  },
+  {
+    "name": "Athlete",
+    "path": "systems/dnd5e/icons/skills/blue_23.jpg"
+  },
+  {
+    "name": "Bountiful Luck",
+    "path": "icons/commodities/flowers/clover.webp"
+  },
+  {
+    "name": "Charger",
+    "path": "systems/dnd5e/icons/skills/blue_27.jpg"
+  },
+  {
+    "name": "Chef",
+    "path": "icons/tools/cooking/knife-cleaver-steel-grey.webp"
+  },
+  {
+    "name": "Crossbow Expert",
+    "path": "icons/weapons/crossbows/handcrossbow-green.webp"
+  },
+  {
+    "name": "Crusher",
+    "path": "icons/weapons/hammers/hammer-double-stone.webp"
+  },
+  {
+    "name": "Defensive Duelist",
+    "path": "systems/dnd5e/icons/skills/weapon_28.jpg"
+  },
+  {
+    "name": "Dragon Fear",
+    "path": "systems/dnd5e/icons/skills/affliction_14.jpg"
+  },
+  {
+    "name": "Dragon Hide",
+    "path": "systems/dnd5e/icons/skills/blue_34.jpg"
+  },
+  {
+    "name": "Drow High Magic",
+    "path": "systems/dnd5e/icons/skills/violet_07.jpg"
+  },
+  {
+    "name": "Dual Wielder",
+    "path": "systems/dnd5e/icons/skills/weapon_22.jpg"
+  },
+  {
+    "name": "Dungeon Delver",
+    "path": "icons/environment/traps/spike-skull-white-brown.webp"
+  },
+  {
+    "name": "Durable",
+    "path": "systems/dnd5e/icons/skills/weapon_44.jpg"
+  },
+  {
+    "name": "Dwarven Fortitude",
+    "path": "systems/dnd5e/icons/skills/yellow_21.jpg"
+  },
+  {
+    "name": "Eldritch Adept",
+    "path": "systems/dnd5e/icons/skills/violet_23.jpg"
+  },
+  {
+    "name": "Elemental Adept",
+    "path": "systems/dnd5e/icons/skills/fire_10.jpg"
+  },
+  {
+    "name": "Elemental Adept (Acid)",
+    "path": "systems/dnd5e/icons/skills/affliction_20.jpg"
+  },
+  {
+    "name": "Elemental Adept (Cold)",
+    "path": "systems/dnd5e/icons/skills/ice_09.jpg"
+  },
+  {
+    "name": "Elemental Adept (Fire)",
+    "path": "systems/dnd5e/icons/skills/fire_10.jpg"
+  },
+  {
+    "name": "Elemental Adept (Lightning)",
+    "path": "systems/dnd5e/icons/skills/blue_21.jpg"
+  },
+  {
+    "name": "Elemental Adept (Thunder)",
+    "path": "systems/dnd5e/icons/skills/shadow_06.jpg"
+  },
+  {
+    "name": "Elven Accuracy",
+    "path": "systems/dnd5e/icons/skills/green_04.jpg"
+  },
+  {
+    "name": "Fade Away",
+    "path": "systems/dnd5e/icons/skills/violet_25.jpg"
+  },
+  {
+    "name": "Fey Teleportation",
+    "path": "systems/dnd5e/icons/skills/green_27.jpg"
+  },
+  {
+    "name": "Fey Touched",
+    "path": "systems/dnd5e/icons/skills/green_13.jpg"
+  },
+  {
+    "name": "Fey Touched (Charisma)",
+    "path": "systems/dnd5e/icons/skills/green_13.jpg"
+  },
+  {
+    "name": "Fey Touched (Intelligence)",
+    "path": "systems/dnd5e/icons/skills/green_13.jpg"
+  },
+  {
+    "name": "Fey Touched (Wisdom)",
+    "path": "systems/dnd5e/icons/skills/green_13.jpg"
+  },
+  {
+    "name": "Fighting Initiate",
+    "path": "systems/dnd5e/icons/skills/red_34.jpg"
+  },
+  {
+    "name": "Firearm Specialist",
+    "path": "icons/weapons/guns/rifle-brown.webp"
+  },
+  {
+    "name": "Flames of Phlegethos",
+    "path": "systems/dnd5e/icons/skills/yellow_07.jpg"
+  },
+  {
+    "name": "Grappler",
+    "path": "systems/dnd5e/icons/skills/yellow_08.jpg"
+  },
+  {
+    "name": "Great Weapon Master",
+    "path": "icons/weapons/axes/axe-battle-skull-black.webp"
+  },
+  {
+    "name": "Gunner",
+    "path": "icons/weapons/guns/gun-pistol-wood.webp"
+  },
+  {
+    "name": "Healer",
+    "path": "icons/environment/people/cleric-grey.webp"
+  },
+  {
+    "name": "Heavily Armored",
+    "path": "icons/equipment/head/greathelm-slotted-steel.webp"
+  },
+  {
+    "name": "Heavy Armor Master",
+    "path": "icons/environment/people/infantry-armored.webp"
+  },
+  {
+    "name": "Infernal Constitution",
+    "path": "systems/dnd5e/icons/skills/red_01.jpg"
+  },
+  {
+    "name": "Inspiring Leader",
+    "path": "systems/dnd5e/icons/skills/light_06.jpg"
+  },
+  {
+    "name": "Keen Mind",
+    "path": "systems/dnd5e/icons/skills/ice_03.jpg"
+  },
+  {
+    "name": "Lightly Armored",
+    "path": "icons/equipment/chest/breastplate-banded-leather-brown.webp"
+  },
+  {
+    "name": "Linguist",
+    "path": "icons/sundries/scrolls/scroll-writing-brown-gold.webp"
+  },
+  {
+    "name": "Lucky",
+    "path": "icons/equipment/neck/necklace-charm-clover.webp"
+  },
+  {
+    "name": "Mage Slayer",
+    "path": "icons/weapons/polearms/halberd-crescent-glowing.webp"
+  },
+  {
+    "name": "Magic Initiate",
+    "path": "icons/sundries/books/book-embossed-jewel-gold-purple.webp"
+  },
+  {
+    "name": "Magic Initiate (Bard)",
+    "path": "icons/sundries/books/book-symbol-fire-gold-orange.webp"
+  },
+  {
+    "name": "Magic Initiate (Cleric)",
+    "path": "icons/sundries/books/book-symbol-canterbury-cross.webp"
+  },
+  {
+    "name": "Magic Initiate (Druid)",
+    "path": "icons/sundries/books/book-symbol-tree-silver-green.webp"
+  },
+  {
+    "name": "Magic Initiate (Sorcerer)",
+    "path": "icons/sundries/books/book-reye-reptile-brown.webp"
+  },
+  {
+    "name": "Magic Initiate (Warlock)",
+    "path": "icons/sundries/books/book-tooled-eye-gold-red.webp"
+  },
+  {
+    "name": "Magic Initiate (Wizard)",
+    "path": "icons/sundries/books/book-eye-purple.webp"
+  },
+  {
+    "name": "Martial Adept",
+    "path": "systems/dnd5e/icons/skills/weapon_01.jpg"
+  },
+  {
+    "name": "Medium Armor Master",
+    "path": "icons/equipment/chest/breastplate-collared-steel-green.webp"
+  },
+  {
+    "name": "Metamagic Adept",
+    "path": "systems/dnd5e/icons/skills/blood_01.jpg"
+  },
+  {
+    "name": "Mobile",
+    "path": "systems/dnd5e/icons/skills/armor_01.jpg"
+  },
+  {
+    "name": "Moderately Armored",
+    "path": "icons/equipment/chest/breastplate-metal-scaled-grey.webp"
+  },
+  {
+    "name": "Mounted Combatant",
+    "path": "icons/environment/people/cavalry.webp"
+  },
+  {
+    "name": "Observant",
+    "path": "icons/commodities/biological/eye-red-pink.webp"
+  },
+  {
+    "name": "Orcish Fury",
+    "path": "systems/dnd5e/icons/skills/affliction_24.jpg"
+  },
+  {
+    "name": "Piercer",
+    "path": "icons/weapons/polearms/spear-ornate-gold.webp"
+  },
+  {
+    "name": "Poisoner",
+    "path": "systems/dnd5e/icons/skills/weapon_20.jpg"
+  },
+  {
+    "name": "Polearm Master",
+    "path": "icons/weapons/polearms/pike-flared-brown.webp"
+  },
+  {
+    "name": "Prodigy",
+    "path": "systems/dnd5e/icons/skills/red_25.jpg"
+  },
+  {
+    "name": "Resilient",
+    "path": "systems/dnd5e/icons/skills/fire_07.jpg"
+  },
+  {
+    "name": "Resilient (Charisma)",
+    "path": "systems/dnd5e/icons/skills/fire_07.jpg"
+  },
+  {
+    "name": "Resilient (Constitution)",
+    "path": "systems/dnd5e/icons/skills/fire_07.jpg"
+  },
+  {
+    "name": "Resilient (Dexterity)",
+    "path": "systems/dnd5e/icons/skills/fire_07.jpg"
+  },
+  {
+    "name": "Resilient (Intelligence)",
+    "path": "systems/dnd5e/icons/skills/fire_07.jpg"
+  },
+  {
+    "name": "Resilient (Strength)",
+    "path": "systems/dnd5e/icons/skills/fire_07.jpg"
+  },
+  {
+    "name": "Resilient (Wisdom)",
+    "path": "systems/dnd5e/icons/skills/fire_07.jpg"
+  },
+  {
+    "name": "Revenant Blade",
+    "path": "systems/dnd5e/icons/skills/weapon_29.jpg"
+  },
+  {
+    "name": "Ritual Caster",
+    "path": "icons/commodities/gems/pearl-glass-purple.webp"
+  },
+  {
+    "name": "Ritual Caster (Bard)",
+    "path": "icons/commodities/gems/pearl-blue-gold.webp"
+  },
+  {
+    "name": "Ritual Caster (Cleric)",
+    "path": "icons/commodities/gems/pearl-purple-smooth.webp"
+  },
+  {
+    "name": "Ritual Caster (Druid)",
+    "path": "icons/commodities/gems/pearl-turquoise.webp"
+  },
+  {
+    "name": "Ritual Caster (Sorcerer)",
+    "path": "icons/commodities/gems/pearl-red-gold.webp"
+  },
+  {
+    "name": "Ritual Caster (Warlock)",
+    "path": "icons/commodities/gems/pearl-brown-red.webp"
+  },
+  {
+    "name": "Ritual Caster (Wizard)",
+    "path": "icons/commodities/gems/pearl-glass-purple.webp"
+  },
+  {
+    "name": "Savage Attacker",
+    "path": "systems/dnd5e/icons/skills/weapon_39.jpg"
+  },
+  {
+    "name": "Second Chance",
+    "path": "systems/dnd5e/icons/skills/weapon_16.jpg"
+  },
+  {
+    "name": "Sentinel",
+    "path": "systems/dnd5e/icons/skills/yellow_22.jpg"
+  },
+  {
+    "name": "Shadow Touched",
+    "path": "systems/dnd5e/icons/skills/shadow_17.jpg"
+  },
+  {
+    "name": "Shadow Touched (Charisma)",
+    "path": "systems/dnd5e/icons/skills/shadow_17.jpg"
+  },
+  {
+    "name": "Shadow Touched (Intelligence)",
+    "path": "systems/dnd5e/icons/skills/shadow_17.jpg"
+  },
+  {
+    "name": "Shadow Touched (Wisdom)",
+    "path": "systems/dnd5e/icons/skills/shadow_17.jpg"
+  },
+  {
+    "name": "Sharpshooter",
+    "path": "systems/dnd5e/icons/skills/arrow_06.jpg"
+  },
+  {
+    "name": "Shield Master",
+    "path": "systems/dnd5e/icons/skills/weapon_14.jpg"
+  },
+  {
+    "name": "Skill Expert",
+    "path": "systems/dnd5e/icons/skills/blue_10.jpg"
+  },
+  {
+    "name": "Skilled",
+    "path": "systems/dnd5e/icons/skills/beast_04.jpg"
+  },
+  {
+    "name": "Skulker",
+    "path": "systems/dnd5e/icons/skills/green_18.jpg"
+  },
+  {
+    "name": "Slasher",
+    "path": "systems/dnd5e/icons/skills/weapon_34.jpg"
+  },
+  {
+    "name": "Spell Sniper",
+    "path": "systems/dnd5e/icons/skills/red_03.jpg"
+  },
+  {
+    "name": "Spell Sniper (Bard, Sorcerer, Warlock)",
+    "path": "systems/dnd5e/icons/skills/red_03.jpg"
+  },
+  {
+    "name": "Spell Sniper (Cleric, Druid)",
+    "path": "systems/dnd5e/icons/skills/red_03.jpg"
+  },
+  {
+    "name": "Spell Sniper (Wizard)",
+    "path": "systems/dnd5e/icons/skills/red_03.jpg"
+  },
+  {
+    "name": "Squat Nimbleness",
+    "path": "icons/commodities/currency/coin-embossed-sword-copper.webp"
+  },
+  {
+    "name": "Svirfneblin Magic",
+    "path": "icons/commodities/stone/ore-pile-gold-orange.webp"
+  },
+  {
+    "name": "Tavern Brawler",
+    "path": "systems/dnd5e/icons/items/inventory/tankard-full.jpg"
+  },
+  {
+    "name": "Telekinetic",
+    "path": "systems/dnd5e/icons/skills/violet_17.jpg"
+  },
+  {
+    "name": "Telekinetic (Charisma)",
+    "path": "systems/dnd5e/icons/skills/violet_17.jpg"
+  },
+  {
+    "name": "Telekinetic (Intelligence)",
+    "path": "systems/dnd5e/icons/skills/violet_17.jpg"
+  },
+  {
+    "name": "Telekinetic (Wisdom)",
+    "path": "systems/dnd5e/icons/skills/violet_17.jpg"
+  },
+  {
+    "name": "Telekinetic Adept: Psi-Powered Leap",
+    "path": "icons/skills/movement/figure-running-gray.webp"
+  },
+  {
+    "name": "Telekinetic Adept: Telekinetic Thrust",
+    "path": "icons/magic/movement/trail-streak-impact-blue.webp"
+  },
+  {
+    "name": "Telepathic",
+    "path": "systems/dnd5e/icons/skills/violet_02.jpg"
+  },
+  {
+    "name": "Telepathic (Charisma)",
+    "path": "systems/dnd5e/icons/skills/violet_02.jpg"
+  },
+  {
+    "name": "Telepathic (Intelligence)",
+    "path": "systems/dnd5e/icons/skills/violet_02.jpg"
+  },
+  {
+    "name": "Telepathic (Wisdom)",
+    "path": "systems/dnd5e/icons/skills/violet_02.jpg"
+  },
+  {
+    "name": "Tough",
+    "path": "icons/equipment/shoulder/pauldron-segmented-steel-yellow.webp"
+  },
+  {
+    "name": "War Caster",
+    "path": "icons/weapons/wands/wand-totem.webp"
+  },
+  {
+    "name": "Weapon Master",
+    "path": "systems/dnd5e/icons/skills/gray_08.jpg"
+  },
+  {
+    "name": "Wood Elf Magic",
+    "path": "systems/dnd5e/icons/skills/green_10.jpg"
+  }
+]
